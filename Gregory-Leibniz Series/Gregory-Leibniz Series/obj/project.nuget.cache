@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "jjy5QP4Rr3kfGBYFEAC9Y9/hJlGgvjj5Pp4i/ZOPSUw78ijwRIsXuA/afNCOI10suk/6O+JOt/0sYb4hOGYpOw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dhruv\\OneDrive - Bacchus Marsh Grammar\\Computing\\Unit 3\\Gregory-Leibniz Series\\Gregory-Leibniz Series\\Gregory-Leibniz Series.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dhruv\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\dhruv\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\dhruv\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\dhruv\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

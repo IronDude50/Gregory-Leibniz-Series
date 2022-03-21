@@ -1,0 +1,15 @@
+E:\Computing\Unit 3\Gregory-Leibniz Series\Gregory-Leibniz Series\obj\Debug\netcoreapp3.1\Gregory-Leibniz Series.vbproj.AssemblyReference.cache
+E:\Computing\Unit 3\Gregory-Leibniz Series\Gregory-Leibniz Series\obj\Debug\netcoreapp3.1\Gregory_Leibniz_Series.Form1.resources
+E:\Computing\Unit 3\Gregory-Leibniz Series\Gregory-Leibniz Series\obj\Debug\netcoreapp3.1\Gregory-Leibniz Series.vbproj.GenerateResource.cache
+E:\Computing\Unit 3\Gregory-Leibniz Series\Gregory-Leibniz Series\obj\Debug\netcoreapp3.1\Gregory-Leibniz Series.AssemblyInfoInputs.cache
+E:\Computing\Unit 3\Gregory-Leibniz Series\Gregory-Leibniz Series\obj\Debug\netcoreapp3.1\Gregory-Leibniz Series.AssemblyInfo.vb
+E:\Computing\Unit 3\Gregory-Leibniz Series\Gregory-Leibniz Series\obj\Debug\netcoreapp3.1\Gregory-Leibniz Series.vbproj.CoreCompileInputs.cache
+E:\Computing\Unit 3\Gregory-Leibniz Series\Gregory-Leibniz Series\bin\Debug\netcoreapp3.1\Gregory-Leibniz Series.exe
+E:\Computing\Unit 3\Gregory-Leibniz Series\Gregory-Leibniz Series\bin\Debug\netcoreapp3.1\Gregory-Leibniz Series.deps.json
+E:\Computing\Unit 3\Gregory-Leibniz Series\Gregory-Leibniz Series\bin\Debug\netcoreapp3.1\Gregory-Leibniz Series.runtimeconfig.json
+E:\Computing\Unit 3\Gregory-Leibniz Series\Gregory-Leibniz Series\bin\Debug\netcoreapp3.1\Gregory-Leibniz Series.runtimeconfig.dev.json
+E:\Computing\Unit 3\Gregory-Leibniz Series\Gregory-Leibniz Series\bin\Debug\netcoreapp3.1\Gregory-Leibniz Series.dll
+E:\Computing\Unit 3\Gregory-Leibniz Series\Gregory-Leibniz Series\bin\Debug\netcoreapp3.1\Gregory-Leibniz Series.pdb
+E:\Computing\Unit 3\Gregory-Leibniz Series\Gregory-Leibniz Series\obj\Debug\netcoreapp3.1\Gregory-Leibniz Series.dll
+E:\Computing\Unit 3\Gregory-Leibniz Series\Gregory-Leibniz Series\obj\Debug\netcoreapp3.1\Gregory-Leibniz Series.pdb
+E:\Computing\Unit 3\Gregory-Leibniz Series\Gregory-Leibniz Series\obj\Debug\netcoreapp3.1\Gregory-Leibniz Series.genruntimeconfig.cache
